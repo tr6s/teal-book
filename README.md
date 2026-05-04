@@ -2,26 +2,38 @@
 
 [![Zenn Book](https://img.shields.io/badge/Zenn-Book-3ea8ff?logo=zenn)](https://zenn.dev/cobaltsato/books/teal-user-guide)
 
-AI 自動化エージェント [**Teal**](https://teal-me.io) の使い方を、**Web ダッシュボード・LINE・Slack** からの操作と **Google・LINE・Slack・Notion・X** の5連携先まで、実例で順を追って解説するガイドブックです。
+AI 自動化エージェント [**Teal**](https://teal-me.io) の使い方を、実例で順を追って解説するガイドブックです。
 
-公開先 → **<https://zenn.dev/cobaltsato/books/teal-user-guide>**
+- **操作チャネル**: Web ダッシュボード / LINE / Slack
+- **連携先**: Google・LINE・Slack・Notion・X（全5サービス）
+- **公開先**: <https://zenn.dev/cobaltsato/books/teal-user-guide>
+
+---
 
 ## 章構成
 
-| # | 章 |
-| --- | --- |
-| 01 | はじめに — このガイドの読み方 |
-| 02 | 5分で始める Teal |
-| 03 | Web ダッシュボードの構成 |
-| 04 | 5つの連携先 — Google・LINE・Slack・Notion・X |
-| 05 | カテゴリ — 業種・機能別テンプレート |
-| 06 | 役割（ロール） — AI に専門分野を持たせる |
-| 07 | スキル — AI が学習する能力 |
-| 08 | 自動タスク — AI が定期的に動くしくみ |
-| 09 | 外部サービス連携 — 5つの連携先と接続する |
-| 10 | ユースケース集 — 6つの業務パターン |
-| 11 | つまずきやすいポイント — よくある質問と確認順 |
-| 99 | 次のステップ |
+**入門**
+
+- `01` はじめに — このガイドの読み方
+- `02` 5分で始める Teal
+- `03` Web ダッシュボードの構成
+- `04` 5つの連携先 — Google・LINE・Slack・Notion・X
+
+**機能を理解する**
+
+- `05` カテゴリ — 業種・機能別テンプレート
+- `06` 役割（ロール） — AI に専門分野を持たせる
+- `07` スキル — AI が学習する能力
+- `08` 自動タスク — AI が定期的に動くしくみ
+- `09` 外部サービス連携 — 5つの連携先と接続する
+
+**実践と次の一歩**
+
+- `10` ユースケース集 — 6つの業務パターン
+- `11` つまずきやすいポイント — よくある質問と確認順
+- `99` 次のステップ
+
+---
 
 ## ディレクトリ構成
 
@@ -37,15 +49,17 @@ AI 自動化エージェント [**Teal**](https://teal-me.io) の使い方を、
     └── teal-user-guide/        Zenn が参照する公開画像（PNG/SVG）
 ```
 
-本文の画像参照は Zenn 標準の絶対パスで書きます。
+本文の画像参照は Zenn 標準の絶対パスで記述します。
 
 ```markdown
 ![alt](/images/teal-user-guide/01-overview.png)
 ```
 
+---
+
 ## 図解の作り方
 
-各章の図解は SVG で書き、`qlmanage` + `sips` で PNG に変換しています。
+各章の図解は SVG で書き、`qlmanage` + `sips` で PNG に変換します。
 
 ```bash
 cd images/teal-user-guide
@@ -56,18 +70,26 @@ rm target.svg.png
 
 トーンは「Official Docs 風」で統一（Stripe Docs / Linear のような落ち着いた配色）。
 
+---
+
 ## 編集 → 公開フロー
 
 1. 章 Markdown または SVG をローカルで編集
-2. SVG を変えたら PNG を再生成
+2. SVG を変更したら PNG を再生成
 3. `git push origin main`
 4. Zenn の GitHub 連携が自動でデプロイ
 
+---
+
 ## 公開設定
 
-- **公開ステータス**: 公開中（`books/teal-user-guide/config.yaml` の `published: true`）
-- **価格**: 0円（無料で読める本）
-- **ライセンス**: 本文は著者帰属、ロゴは Teal 側帰属
+| 項目 | 値 |
+| --- | --- |
+| 公開ステータス | 公開中（`books/teal-user-guide/config.yaml` の `published: true`） |
+| 価格 | 0円（無料で読める本） |
+| ライセンス | 本文は著者帰属、ロゴは Teal 側帰属 |
+
+---
 
 ## クレジット
 

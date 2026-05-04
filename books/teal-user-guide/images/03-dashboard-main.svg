@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#fcfcfd"/>
+
+  <text x="64" y="76" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">DASHBOARD STRUCTURE</text>
+  <text x="64" y="116" font-family="Inter, system-ui, sans-serif" font-size="28"
+        font-weight="700" fill="#1a1a1f" letter-spacing="-0.01em">Webダッシュボードの3パート構成</text>
+  <line x1="64" y1="148" x2="1216" y2="148" stroke="#e5e5ea" stroke-width="1"/>
+
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="64"  y="200" width="320" height="464" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="84"  y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">SIDEBAR / 左ペイン</text>
+    <text x="84"  y="266" font-size="18" font-weight="700" fill="#1a1a1f">どこに移動するか</text>
+    <line x1="84" y1="286" x2="364" y2="286" stroke="#e5e5ea"/>
+    <text x="84"  y="316" font-size="13" fill="#1a1a1f">+ 新しい会話</text>
+    <text x="84"  y="342" font-size="13" fill="#1a1a1f">会話履歴</text>
+    <text x="84"  y="368" font-size="13" fill="#1a1a1f">アシスタント設定</text>
+    <text x="84"  y="394" font-size="13" fill="#1a1a1f">プロフィール</text>
+    <text x="84"  y="420" font-size="13" fill="#1a1a1f">外部連携</text>
+    <text x="84"  y="446" font-size="13" fill="#1a1a1f">スキル</text>
+    <text x="84"  y="472" font-size="13" fill="#1a1a1f">通知設定</text>
+    <line x1="84" y1="500" x2="364" y2="500" stroke="#e5e5ea"/>
+    <text x="84"  y="528" font-size="11" fill="#5a5a66">役割: ナビゲーション</text>
+    <text x="84"  y="552" font-size="11" fill="#5a5a66">主要セクションへの入口</text>
+
+    <rect x="408" y="200" width="416" height="464" rx="8" fill="#ffffff" stroke="#1a1a1f" stroke-width="1.4"/>
+    <text x="428" y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">MAIN AREA / 中央ペイン</text>
+    <text x="428" y="266" font-size="18" font-weight="700" fill="#1a1a1f">何を始めるか</text>
+    <line x1="428" y1="286" x2="804" y2="286" stroke="#e5e5ea"/>
+
+    <rect x="428" y="306" width="376" height="36" rx="6" fill="#fcfcfd" stroke="#e5e5ea"/>
+    <text x="448" y="328" font-size="12" fill="#5a5a66">カテゴリタブ：調べ物 / 業務 / マーケ ...</text>
+
+    <rect x="428" y="358" width="180" height="92" rx="6" fill="#fcfcfd" stroke="#e5e5ea"/>
+    <text x="448" y="386" font-size="12" font-weight="600" fill="#1a1a1f">タスク提案カード</text>
+    <text x="448" y="410" font-size="11" fill="#5a5a66">今週の競合分析</text>
+    <text x="448" y="430" font-size="11" fill="#5a5a66">ブログ記事を書く</text>
+
+    <rect x="624" y="358" width="180" height="92" rx="6" fill="#fcfcfd" stroke="#e5e5ea"/>
+    <text x="644" y="386" font-size="12" font-weight="600" fill="#1a1a1f">サブカテゴリ</text>
+    <text x="644" y="410" font-size="11" fill="#5a5a66">業界ニュース / 法律</text>
+    <text x="644" y="430" font-size="11" fill="#5a5a66">補助金 / 商品比較</text>
+
+    <rect x="428" y="466" width="376" height="92" rx="6" fill="#fcfcfd" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="448" y="494" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1">WIZARD</text>
+    <text x="448" y="520" font-size="13" font-weight="600" fill="#1a1a1f">ウィザード（目的選択ガイド）</text>
+    <text x="448" y="542" font-size="11" fill="#5a5a66">「新しい会話」から起動</text>
+
+    <line x1="428" y1="588" x2="804" y2="588" stroke="#e5e5ea"/>
+    <text x="428" y="616" font-size="11" fill="#5a5a66">役割: 出発点となるカード型UI</text>
+    <text x="428" y="640" font-size="11" fill="#5a5a66">タップだけで会話開始</text>
+
+    <rect x="848" y="200" width="368" height="464" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="868" y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">CHAT / 会話画面</text>
+    <text x="868" y="266" font-size="18" font-weight="700" fill="#1a1a1f">どう進めるか</text>
+    <line x1="868" y1="286" x2="1196" y2="286" stroke="#e5e5ea"/>
+
+    <rect x="868" y="306" width="328" height="60" rx="6" fill="#fcfcfd" stroke="#e5e5ea"/>
+    <text x="888" y="334" font-size="12" fill="#5a5a66">User</text>
+    <text x="888" y="354" font-size="12" fill="#1a1a1f">今日の予定をまとめて教えて</text>
+
+    <rect x="868" y="380" width="328" height="84" rx="6" fill="#fcfcfd" stroke="#e5e5ea"/>
+    <text x="888" y="408" font-size="12" fill="#5b6cff">Teal</text>
+    <text x="888" y="428" font-size="12" fill="#1a1a1f">10:00 ミーティング、</text>
+    <text x="888" y="446" font-size="12" fill="#1a1a1f">14:00 取材、</text>
+    <text x="888" y="462" font-size="12" fill="#1a1a1f">17:00 経費精算...</text>
+
+    <rect x="868" y="478" width="328" height="36" rx="6" fill="#fcfcfd" stroke="#e5e5ea"/>
+    <text x="888" y="500" font-size="12" fill="#5a5a66">入力 / 音声 / ファイル添付</text>
+
+    <line x1="868" y1="588" x2="1196" y2="588" stroke="#e5e5ea"/>
+    <text x="868" y="616" font-size="11" fill="#5a5a66">役割: 実行と対話</text>
+    <text x="868" y="640" font-size="11" fill="#5a5a66">ストリーミング応答</text>
+  </g>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#fcfcfd"/>
+
+  <text x="64" y="76" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">SKILL LEARNING LOOP</text>
+  <text x="64" y="116" font-family="Inter, system-ui, sans-serif" font-size="28"
+        font-weight="700" fill="#1a1a1f" letter-spacing="-0.01em">スキル学習のサイクル</text>
+  <line x1="64" y1="148" x2="1216" y2="148" stroke="#e5e5ea"/>
+
+  <g font-family="Inter, system-ui, sans-serif">
+    <circle cx="640" cy="430" r="76" fill="#ffffff" stroke="#1a1a1f" stroke-width="1.5"/>
+    <text x="640" y="424" font-size="18" font-weight="700" fill="#1a1a1f" text-anchor="middle">SKILL</text>
+    <text x="640" y="448" font-size="12" fill="#5a5a66" text-anchor="middle">学習中の能力</text>
+
+    <rect x="240" y="220" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="260" y="252" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">STEP 1</text>
+    <text x="260" y="280" font-size="16" font-weight="700" fill="#1a1a1f">ユーザーが指示を出す</text>
+    <text x="260" y="310" font-size="11" fill="#5a5a66">「Xに投稿文を作って」</text>
+    <text x="260" y="326" font-size="11" fill="#5a5a66">「メールの返信を書いて」</text>
+
+    <rect x="760" y="220" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="780" y="252" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">STEP 2</text>
+    <text x="780" y="280" font-size="16" font-weight="700" fill="#1a1a1f">AI が出力を返す</text>
+    <text x="780" y="310" font-size="11" fill="#5a5a66">スキルがあれば反映</text>
+    <text x="780" y="326" font-size="11" fill="#5a5a66">なければ汎用的な応答</text>
+
+    <rect x="760" y="520" width="280" height="120" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.4"/>
+    <text x="780" y="552" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">STEP 3</text>
+    <text x="780" y="580" font-size="16" font-weight="700" fill="#1a1a1f">具体的なフィードバック</text>
+    <text x="780" y="610" font-size="11" fill="#5a5a66">「ハッシュタグは2つまで」</text>
+    <text x="780" y="626" font-size="11" fill="#5a5a66">「文末は疑問形で」</text>
+
+    <rect x="240" y="520" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="260" y="552" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">STEP 4</text>
+    <text x="260" y="580" font-size="16" font-weight="700" fill="#1a1a1f">スキルが更新される</text>
+    <text x="260" y="610" font-size="11" fill="#5a5a66">次回以降の応答に反映</text>
+    <text x="260" y="626" font-size="11" fill="#5a5a66">使うほど精度が向上</text>
+  </g>
+
+  <g stroke="#1a1a1f" stroke-width="1.2" fill="none">
+    <path d="M 520 280 C 580 280, 600 360, 640 354" />
+    <path d="M 760 280 C 700 280, 680 360, 640 354" />
+    <path d="M 760 580 C 700 580, 680 510, 640 506" />
+    <path d="M 520 580 C 580 580, 600 510, 640 506" />
+  </g>
+
+  <g fill="#1a1a1f">
+    <polygon points="638,348 646,358 630,358" />
+    <polygon points="638,512 646,502 630,502" />
+  </g>
+
+  <g font-family="Inter, system-ui, sans-serif" font-size="11" fill="#5a5a66">
+    <text x="556" y="270">入力</text>
+    <text x="700" y="270">出力</text>
+    <text x="700" y="600">フィードバック</text>
+    <text x="540" y="600">学習</text>
+  </g>
+
+  <line x1="64" y1="678" x2="1216" y2="678" stroke="#e5e5ea"/>
+  <text x="64" y="704" font-family="Inter, system-ui, sans-serif" font-size="12"
+        fill="#5a5a66">代表例: x_post（X投稿スキル）/ writing_style_tune（文体スキル）</text>
+</svg>

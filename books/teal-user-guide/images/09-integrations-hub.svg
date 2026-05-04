@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#fcfcfd"/>
+
+  <text x="64" y="76" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">INTEGRATIONS / 8 SERVICES</text>
+  <text x="64" y="116" font-family="Inter, system-ui, sans-serif" font-size="28"
+        font-weight="700" fill="#1a1a1f" letter-spacing="-0.01em">Teal を中心とした連携ハブ</text>
+  <line x1="64" y1="148" x2="1216" y2="148" stroke="#e5e5ea"/>
+
+  <circle cx="640" cy="420" r="92" fill="#ffffff" stroke="#1a1a1f" stroke-width="1.5"/>
+  <text x="640" y="412" font-family="Inter, system-ui, sans-serif" font-size="28"
+        font-weight="700" fill="#1a1a1f" text-anchor="middle" letter-spacing="-0.01em">Teal</text>
+  <text x="640" y="438" font-family="Inter, system-ui, sans-serif" font-size="12"
+        fill="#5a5a66" text-anchor="middle">AI エージェント</text>
+
+  <g stroke="#1a1a1f" stroke-width="1" fill="none">
+    <line x1="640" y1="328" x2="640" y2="256"/>
+    <line x1="554" y1="372" x2="480" y2="308"/>
+    <line x1="548" y1="420" x2="320" y2="420"/>
+    <line x1="554" y1="468" x2="480" y2="532"/>
+    <line x1="640" y1="512" x2="640" y2="600"/>
+    <line x1="726" y1="468" x2="800" y2="532"/>
+    <line x1="732" y1="420" x2="960" y2="420"/>
+    <line x1="726" y1="372" x2="800" y2="308"/>
+  </g>
+
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="540" y="200" width="200" height="56" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="640" y="226" font-size="13" font-weight="600" fill="#1a1a1f" text-anchor="middle">Googleカレンダー</text>
+    <text x="640" y="246" font-size="11" fill="#5a5a66" text-anchor="middle">予定・リマインダー</text>
+
+    <rect x="280" y="252" width="200" height="56" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="380" y="278" font-size="13" font-weight="600" fill="#1a1a1f" text-anchor="middle">Gmail</text>
+    <text x="380" y="298" font-size="11" fill="#5a5a66" text-anchor="middle">メール / アドレス抽出</text>
+
+    <rect x="120" y="392" width="200" height="56" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="220" y="418" font-size="13" font-weight="600" fill="#1a1a1f" text-anchor="middle">Googleドライブ</text>
+    <text x="220" y="438" font-size="11" fill="#5a5a66" text-anchor="middle">ファイル参照・保存</text>
+
+    <rect x="280" y="532" width="200" height="56" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="380" y="558" font-size="13" font-weight="600" fill="#1a1a1f" text-anchor="middle">LINE</text>
+    <text x="380" y="578" font-size="11" fill="#5a5a66" text-anchor="middle">対話 / 通知</text>
+
+    <rect x="540" y="600" width="200" height="56" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="640" y="626" font-size="13" font-weight="600" fill="#1a1a1f" text-anchor="middle">Slack</text>
+    <text x="640" y="646" font-size="11" fill="#5a5a66" text-anchor="middle">チームメッセージ</text>
+
+    <rect x="800" y="532" width="200" height="56" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="900" y="558" font-size="13" font-weight="600" fill="#1a1a1f" text-anchor="middle">Telegram</text>
+    <text x="900" y="578" font-size="11" fill="#5a5a66" text-anchor="middle">グローバルメッセージ</text>
+
+    <rect x="960" y="392" width="200" height="56" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="1060" y="418" font-size="13" font-weight="600" fill="#1a1a1f" text-anchor="middle">Notion</text>
+    <text x="1060" y="438" font-size="11" fill="#5a5a66" text-anchor="middle">DB / ナレッジ管理</text>
+
+    <rect x="800" y="252" width="200" height="56" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="900" y="278" font-size="13" font-weight="600" fill="#1a1a1f" text-anchor="middle">X（旧Twitter）</text>
+    <text x="900" y="298" font-size="11" fill="#5a5a66" text-anchor="middle">投稿 / 競合監視</text>
+  </g>
+
+  <text x="64" y="700" font-family="Inter, system-ui, sans-serif" font-size="12"
+        fill="#5a5a66">接続は OAuth 認証。Teal はパスワードを保持しません。</text>
+</svg>

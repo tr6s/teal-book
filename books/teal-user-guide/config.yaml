@@ -1,0 +1,19 @@
+title: "Teal 使い方ガイドブック"
+summary: "AI自動化エージェント Teal の使い方を、Google・LINE・Slack・Notion・X の5つの連携先で解説。カテゴリ・役割・スキル・自動タスク・外部連携まで、実例で学ぶ公式風ガイド。"
+topics: ["AI", "自動化", "エージェント", "LINE", "Notion"]
+published: true
+price: 0
+chapters:
+  - 01-introduction
+  - 02-quickstart
+  - 03-dashboard
+  - 04-channels
+  - 05-categories
+  - 06-roles
+  - 07-skills
+  - 08-auto-tasks
+  - 09-integrations
+  - 10-usecases
+  - 11-troubleshoot
+  - 99-next-steps
+toc_depth: 2

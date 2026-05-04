@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="700" viewBox="0 0 500 700">
+  <rect width="500" height="700" fill="#fcfcfd"/>
+
+  <rect x="48" y="72" width="148" height="28" rx="14" fill="none" stroke="#5b6cff" stroke-width="1.4"/>
+  <text x="122" y="91" font-family="Inter, system-ui, sans-serif" font-size="13"
+        fill="#5b6cff" text-anchor="middle" letter-spacing="2" font-weight="600">GUIDEBOOK</text>
+
+  <image href="images/teal-logo.png" x="40" y="140" width="320" height="160" preserveAspectRatio="xMinYMid meet"/>
+
+  <text x="48" y="356" font-family="Inter, system-ui, sans-serif" font-size="34"
+        font-weight="700" fill="#1a1a1f" letter-spacing="-0.01em">使い方ガイドブック</text>
+
+  <line x1="48" y1="402" x2="120" y2="402" stroke="#1a1a1f" stroke-width="2"/>
+
+  <text x="48" y="438" font-family="Inter, system-ui, sans-serif" font-size="18"
+        fill="#5a5a66" letter-spacing="-0.01em">AI × 自動化エージェントの</text>
+  <text x="48" y="466" font-family="Inter, system-ui, sans-serif" font-size="18"
+        fill="#5a5a66" letter-spacing="-0.01em">はじめての一冊</text>
+
+  <g font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600">
+    <rect x="48"  y="528" width="74" height="36" rx="6" fill="none" stroke="#5b6cff" stroke-width="1"/>
+    <text x="85"  y="551" fill="#5b6cff" text-anchor="middle" letter-spacing="0.5">Google</text>
+
+    <rect x="130" y="528" width="74" height="36" rx="6" fill="none" stroke="#5b6cff" stroke-width="1"/>
+    <text x="167" y="551" fill="#5b6cff" text-anchor="middle" letter-spacing="0.5">LINE</text>
+
+    <rect x="212" y="528" width="74" height="36" rx="6" fill="none" stroke="#5b6cff" stroke-width="1"/>
+    <text x="249" y="551" fill="#5b6cff" text-anchor="middle" letter-spacing="0.5">Slack</text>
+
+    <rect x="294" y="528" width="74" height="36" rx="6" fill="none" stroke="#5b6cff" stroke-width="1"/>
+    <text x="331" y="551" fill="#5b6cff" text-anchor="middle" letter-spacing="0.5">Notion</text>
+
+    <rect x="376" y="528" width="74" height="36" rx="6" fill="none" stroke="#5b6cff" stroke-width="1"/>
+    <text x="413" y="551" fill="#5b6cff" text-anchor="middle" letter-spacing="0.5">X</text>
+  </g>
+
+  <line x1="48" y1="630" x2="452" y2="630" stroke="#e5e5ea" stroke-width="1"/>
+  <text x="48" y="660" font-family="Inter, system-ui, sans-serif" font-size="14"
+        fill="#5a5a66" letter-spacing="1">teal-me.io</text>
+  <text x="452" y="660" font-family="Inter, system-ui, sans-serif" font-size="14"
+        fill="#5a5a66" letter-spacing="1" text-anchor="end">2026</text>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#fcfcfd"/>
+
+  <text x="64" y="76" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">OVERVIEW</text>
+  <text x="64" y="116" font-family="Inter, system-ui, sans-serif" font-size="28"
+        font-weight="700" fill="#1a1a1f" letter-spacing="-0.01em">指示の入口 × AIエージェント × 5つの連携先</text>
+  <line x1="64" y1="148" x2="1216" y2="148" stroke="#e5e5ea" stroke-width="1"/>
+
+  <circle cx="640" cy="400" r="92" fill="#ffffff" stroke="#1a1a1f" stroke-width="1.5"/>
+  <text x="640" y="392" font-family="Inter, system-ui, sans-serif" font-size="32"
+        font-weight="700" fill="#1a1a1f" text-anchor="middle" letter-spacing="-0.01em">Teal</text>
+  <text x="640" y="420" font-family="Inter, system-ui, sans-serif" font-size="12"
+        fill="#5a5a66" text-anchor="middle">AIエージェント</text>
+
+  <text x="80" y="200" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">INPUT / 指示の入口</text>
+
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="80"  y="224" width="340" height="64" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="250" y="252" font-size="14" font-weight="600" fill="#1a1a1f" text-anchor="middle">Web ダッシュボード</text>
+    <text x="250" y="272" font-size="11" fill="#5a5a66" text-anchor="middle">設定・じっくり作業向け</text>
+
+    <rect x="80"  y="304" width="160" height="64" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="160" y="332" font-size="14" font-weight="600" fill="#1a1a1f" text-anchor="middle">LINE</text>
+    <text x="160" y="352" font-size="11" fill="#5a5a66" text-anchor="middle">スマホで会話</text>
+
+    <rect x="260" y="304" width="160" height="64" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.2"/>
+    <text x="340" y="332" font-size="14" font-weight="600" fill="#1a1a1f" text-anchor="middle">Slack</text>
+    <text x="340" y="352" font-size="11" fill="#5a5a66" text-anchor="middle">チームで会話</text>
+  </g>
+
+  <g stroke="#1a1a1f" stroke-width="1" fill="none">
+    <line x1="420" y1="256" x2="548" y2="380"/>
+    <line x1="420" y1="336" x2="548" y2="408"/>
+  </g>
+
+  <text x="860" y="200" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">INTEGRATIONS / 5連携先</text>
+
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="860"  y="224" width="160" height="56" rx="6" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="940"  y="249" font-size="14" font-weight="600" fill="#1a1a1f" text-anchor="middle">Google</text>
+    <text x="940"  y="268" font-size="11" fill="#5a5a66" text-anchor="middle">Calendar / Gmail / Drive</text>
+
+    <rect x="1040" y="224" width="160" height="56" rx="6" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="1120" y="249" font-size="14" font-weight="600" fill="#1a1a1f" text-anchor="middle">LINE</text>
+    <text x="1120" y="268" font-size="11" fill="#5a5a66" text-anchor="middle">通知 / 会話</text>
+
+    <rect x="860"  y="296" width="160" height="56" rx="6" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="940"  y="321" font-size="14" font-weight="600" fill="#1a1a1f" text-anchor="middle">Slack</text>
+    <text x="940"  y="340" font-size="11" fill="#5a5a66" text-anchor="middle">通知 / 会話 / 共有</text>
+
+    <rect x="1040" y="296" width="160" height="56" rx="6" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="1120" y="321" font-size="14" font-weight="600" fill="#1a1a1f" text-anchor="middle">Notion</text>
+    <text x="1120" y="340" font-size="11" fill="#5a5a66" text-anchor="middle">ドキュメント / DB</text>
+
+    <rect x="950"  y="368" width="160" height="56" rx="6" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="1030" y="393" font-size="14" font-weight="600" fill="#1a1a1f" text-anchor="middle">X</text>
+    <text x="1030" y="412" font-size="11" fill="#5a5a66" text-anchor="middle">投稿 / 予約 / 分析</text>
+  </g>
+
+  <g stroke="#1a1a1f" stroke-width="1" fill="none">
+    <line x1="732" y1="380" x2="860" y2="252"/>
+    <line x1="732" y1="392" x2="860" y2="324"/>
+    <line x1="732" y1="408" x2="950" y2="396"/>
+  </g>
+
+  <line x1="64" y1="528" x2="1216" y2="528" stroke="#e5e5ea" stroke-width="1"/>
+  <text x="64" y="568" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">CAPABILITIES</text>
+
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="64"  y="588" width="276" height="92" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="84"  y="616" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">CATEGORY</text>
+    <text x="84"  y="644" font-size="14" font-weight="600" fill="#1a1a1f">業種・機能別テンプレート</text>
+    <text x="84"  y="664" font-size="11" fill="#5a5a66">10カテゴリ・40以上のサブカテゴリ</text>
+
+    <rect x="356" y="588" width="276" height="92" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="376" y="616" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">ROLE</text>
+    <text x="376" y="644" font-size="14" font-weight="600" fill="#1a1a1f">役割（専門分野設定）</text>
+    <text x="376" y="664" font-size="11" fill="#5a5a66">SNS集客・営業・契約書ドラフトなど</text>
+
+    <rect x="648" y="588" width="276" height="92" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="668" y="616" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">SKILL</text>
+    <text x="668" y="644" font-size="14" font-weight="600" fill="#1a1a1f">AIの学習機能</text>
+    <text x="668" y="664" font-size="11" fill="#5a5a66">使うほど精度が向上</text>
+
+    <rect x="940" y="588" width="276" height="92" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="960" y="616" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">AUTO TASK</text>
+    <text x="960" y="644" font-size="14" font-weight="600" fill="#1a1a1f">定期実行の自動タスク</text>
+    <text x="960" y="664" font-size="11" fill="#5a5a66">毎朝・週次など自律実行</text>
+  </g>
+</svg>

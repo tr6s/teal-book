@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#fcfcfd"/>
+
+  <text x="64" y="76" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">CATEGORIES / 10種</text>
+  <text x="64" y="116" font-family="Inter, system-ui, sans-serif" font-size="28"
+        font-weight="700" fill="#1a1a1f" letter-spacing="-0.01em">業種・機能別テンプレート</text>
+  <line x1="64" y1="148" x2="1216" y2="148" stroke="#e5e5ea" stroke-width="1"/>
+
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="64"  y="200" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="84"  y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 01</text>
+    <text x="84"  y="260" font-size="16" font-weight="700" fill="#1a1a1f">調べ物・情報整理</text>
+    <text x="84"  y="290" font-size="11" fill="#5a5a66">業界ニュース / 法律 / 補助金</text>
+    <text x="84"  y="306" font-size="11" fill="#5a5a66">商品比較 / 要約・翻訳</text>
+
+    <rect x="360" y="200" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="380" y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 02</text>
+    <text x="380" y="260" font-size="16" font-weight="700" fill="#1a1a1f">生活サポート</text>
+    <text x="380" y="290" font-size="11" fill="#5a5a66">日常タスク管理</text>
+    <text x="380" y="306" font-size="11" fill="#5a5a66">天気・服装 / 筋トレ</text>
+
+    <rect x="656" y="200" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="676" y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 03</text>
+    <text x="676" y="260" font-size="16" font-weight="700" fill="#1a1a1f">業務・事務</text>
+    <text x="676" y="290" font-size="11" fill="#5a5a66">契約書ドラフト / 社内通知</text>
+    <text x="676" y="306" font-size="11" fill="#5a5a66">データ整理 / 在庫管理</text>
+
+    <rect x="952" y="200" width="264" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="972" y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 04</text>
+    <text x="972" y="260" font-size="16" font-weight="700" fill="#1a1a1f">資金管理</text>
+    <text x="972" y="290" font-size="11" fill="#5a5a66">資金調達戦略 / 予算管理</text>
+    <text x="972" y="306" font-size="11" fill="#5a5a66">請求書作成</text>
+
+    <rect x="64"  y="340" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="84"  y="372" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 05</text>
+    <text x="84"  y="400" font-size="16" font-weight="700" fill="#1a1a1f">マーケティング・企画</text>
+    <text x="84"  y="430" font-size="11" fill="#5a5a66">SNS集客 / コンテンツ作成</text>
+    <text x="84"  y="446" font-size="11" fill="#5a5a66">広告文 / 競合分析</text>
+
+    <rect x="360" y="340" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="380" y="372" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 06</text>
+    <text x="380" y="400" font-size="16" font-weight="700" fill="#1a1a1f">スケジュール・会議</text>
+    <text x="380" y="430" font-size="11" fill="#5a5a66">カレンダー管理 / 議事録</text>
+    <text x="380" y="446" font-size="11" fill="#5a5a66">リマインダー設定</text>
+
+    <rect x="656" y="340" width="280" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="676" y="372" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 07</text>
+    <text x="676" y="400" font-size="16" font-weight="700" fill="#1a1a1f">営業資料</text>
+    <text x="676" y="430" font-size="11" fill="#5a5a66">営業リスト作成</text>
+    <text x="676" y="446" font-size="11" fill="#5a5a66">プレゼン / 提案書ドラフト</text>
+
+    <rect x="952" y="340" width="264" height="120" rx="8" fill="#ffffff" stroke="#e5e5ea"/>
+    <text x="972" y="372" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 08</text>
+    <text x="972" y="400" font-size="16" font-weight="700" fill="#1a1a1f">IT・Web向け</text>
+    <text x="972" y="430" font-size="11" fill="#5a5a66">コードレビュー / デバッグ</text>
+    <text x="972" y="446" font-size="11" fill="#5a5a66">ドキュメント / API設計</text>
+
+    <rect x="64"  y="480" width="576" height="120" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.4"/>
+    <text x="84"  y="512" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 09 / 業界特化</text>
+    <text x="84"  y="540" font-size="16" font-weight="700" fill="#1a1a1f">医療・福祉向け</text>
+    <text x="84"  y="570" font-size="11" fill="#5a5a66">シフト表作成 / 患者説明資料 / 研修資料</text>
+    <text x="84"  y="586" font-size="11" fill="#5a5a66">事業計画・報告書 / 業務マニュアル</text>
+
+    <rect x="656" y="480" width="560" height="120" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.4"/>
+    <text x="676" y="512" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.2">CATEGORY 10 / 業界特化</text>
+    <text x="676" y="540" font-size="16" font-weight="700" fill="#1a1a1f">製造・メーカー向け</text>
+    <text x="676" y="570" font-size="11" fill="#5a5a66">品質管理 / 生産スケジュール</text>
+    <text x="676" y="586" font-size="11" fill="#5a5a66">安全マニュアル作成</text>
+  </g>
+
+  <line x1="64" y1="640" x2="1216" y2="640" stroke="#e5e5ea"/>
+  <text x="64" y="676" font-family="Inter, system-ui, sans-serif" font-size="12"
+        fill="#5a5a66">カテゴリは追加・更新される予定です。最新の一覧はメイン画面で確認してください。</text>
+</svg>

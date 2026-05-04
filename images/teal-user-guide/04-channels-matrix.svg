@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#fcfcfd"/>
+
+  <text x="64" y="76" font-family="Inter, system-ui, sans-serif" font-size="11"
+        fill="#5a5a66" letter-spacing="2" font-weight="600">4 CHANNELS COMPARISON</text>
+  <text x="64" y="116" font-family="Inter, system-ui, sans-serif" font-size="28"
+        font-weight="700" fill="#1a1a1f" letter-spacing="-0.01em">4チャネルの比較マトリクス</text>
+  <line x1="64" y1="148" x2="1216" y2="148" stroke="#e5e5ea" stroke-width="1"/>
+
+  <g font-family="Inter, system-ui, sans-serif">
+    <rect x="64"  y="200" width="280" height="464" rx="8" fill="#ffffff" stroke="#5b6cff" stroke-width="1.4"/>
+    <text x="84"  y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">CHANNEL 1</text>
+    <text x="84"  y="266" font-size="20" font-weight="700" fill="#1a1a1f">Web ダッシュボード</text>
+    <line x1="84" y1="286" x2="324" y2="286" stroke="#e5e5ea"/>
+    <text x="84"  y="320" font-size="11" fill="#5a5a66" letter-spacing="1.2">アクセス</text>
+    <text x="84"  y="340" font-size="13" fill="#1a1a1f">teal-me.io</text>
+    <text x="84"  y="380" font-size="11" fill="#5a5a66" letter-spacing="1.2">主な端末</text>
+    <text x="84"  y="400" font-size="13" fill="#1a1a1f">PC ブラウザ</text>
+    <text x="84"  y="440" font-size="11" fill="#5a5a66" letter-spacing="1.2">機能の網羅性</text>
+    <text x="84"  y="460" font-size="13" fill="#1a1a1f">全機能</text>
+    <text x="84"  y="500" font-size="11" fill="#5a5a66" letter-spacing="1.2">向く場面</text>
+    <text x="84"  y="520" font-size="13" fill="#1a1a1f">設定 / じっくり作業</text>
+    <line x1="84" y1="560" x2="324" y2="560" stroke="#e5e5ea"/>
+    <text x="84"  y="592" font-size="11" fill="#5a5a66" letter-spacing="1.2">音声入力</text>
+    <text x="84"  y="612" font-size="13" fill="#1a1a1f">対応</text>
+
+    <rect x="368" y="200" width="280" height="464" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="388" y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">CHANNEL 2</text>
+    <text x="388" y="266" font-size="20" font-weight="700" fill="#1a1a1f">LINE</text>
+    <line x1="388" y1="286" x2="628" y2="286" stroke="#e5e5ea"/>
+    <text x="388" y="320" font-size="11" fill="#5a5a66" letter-spacing="1.2">アクセス</text>
+    <text x="388" y="340" font-size="13" fill="#1a1a1f">公式アカウント友だち追加</text>
+    <text x="388" y="380" font-size="11" fill="#5a5a66" letter-spacing="1.2">主な端末</text>
+    <text x="388" y="400" font-size="13" fill="#1a1a1f">スマートフォン</text>
+    <text x="388" y="440" font-size="11" fill="#5a5a66" letter-spacing="1.2">機能の網羅性</text>
+    <text x="388" y="460" font-size="13" fill="#1a1a1f">会話 / 通知が中心</text>
+    <text x="388" y="500" font-size="11" fill="#5a5a66" letter-spacing="1.2">向く場面</text>
+    <text x="388" y="520" font-size="13" fill="#1a1a1f">スキマ時間 / 外出先</text>
+    <line x1="388" y1="560" x2="628" y2="560" stroke="#e5e5ea"/>
+    <text x="388" y="592" font-size="11" fill="#5a5a66" letter-spacing="1.2">音声入力</text>
+    <text x="388" y="612" font-size="13" fill="#1a1a1f">対応</text>
+
+    <rect x="672" y="200" width="280" height="464" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="692" y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">CHANNEL 3</text>
+    <text x="692" y="266" font-size="20" font-weight="700" fill="#1a1a1f">Slack</text>
+    <line x1="692" y1="286" x2="932" y2="286" stroke="#e5e5ea"/>
+    <text x="692" y="320" font-size="11" fill="#5a5a66" letter-spacing="1.2">アクセス</text>
+    <text x="692" y="340" font-size="13" fill="#1a1a1f">アプリをワークスペースに追加</text>
+    <text x="692" y="380" font-size="11" fill="#5a5a66" letter-spacing="1.2">主な端末</text>
+    <text x="692" y="400" font-size="13" fill="#1a1a1f">PC / スマートフォン</text>
+    <text x="692" y="440" font-size="11" fill="#5a5a66" letter-spacing="1.2">機能の網羅性</text>
+    <text x="692" y="460" font-size="13" fill="#1a1a1f">会話 / 通知 / チーム共有</text>
+    <text x="692" y="500" font-size="11" fill="#5a5a66" letter-spacing="1.2">向く場面</text>
+    <text x="692" y="520" font-size="13" fill="#1a1a1f">チームコラボ</text>
+    <line x1="692" y1="560" x2="932" y2="560" stroke="#e5e5ea"/>
+    <text x="692" y="592" font-size="11" fill="#5a5a66" letter-spacing="1.2">音声入力</text>
+    <text x="692" y="612" font-size="13" fill="#1a1a1f">環境による</text>
+
+    <rect x="976" y="200" width="240" height="464" rx="8" fill="#ffffff" stroke="#e5e5ea" stroke-width="1"/>
+    <text x="996" y="232" font-size="12" font-weight="600" fill="#5b6cff" letter-spacing="1.5">CHANNEL 4</text>
+    <text x="996" y="266" font-size="20" font-weight="700" fill="#1a1a1f">Telegram</text>
+    <line x1="996" y1="286" x2="1196" y2="286" stroke="#e5e5ea"/>
+    <text x="996" y="320" font-size="11" fill="#5a5a66" letter-spacing="1.2">アクセス</text>
+    <text x="996" y="340" font-size="13" fill="#1a1a1f">Bot として追加</text>
+    <text x="996" y="380" font-size="11" fill="#5a5a66" letter-spacing="1.2">主な端末</text>
+    <text x="996" y="400" font-size="13" fill="#1a1a1f">PC / スマートフォン</text>
+    <text x="996" y="440" font-size="11" fill="#5a5a66" letter-spacing="1.2">機能の網羅性</text>
+    <text x="996" y="460" font-size="13" fill="#1a1a1f">会話 / 通知</text>
+    <text x="996" y="500" font-size="11" fill="#5a5a66" letter-spacing="1.2">向く場面</text>
+    <text x="996" y="520" font-size="13" fill="#1a1a1f">グローバルな相手と共有</text>
+    <line x1="996" y1="560" x2="1196" y2="560" stroke="#e5e5ea"/>
+    <text x="996" y="592" font-size="11" fill="#5a5a66" letter-spacing="1.2">音声入力</text>
+    <text x="996" y="612" font-size="13" fill="#1a1a1f">環境による</text>
+  </g>
+</svg>

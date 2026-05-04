@@ -9,7 +9,7 @@ free: true
 
 - Web ダッシュボード・LINE・Slack から AI を呼び出せる
 - カテゴリ・役割・スキル・自動タスクの違いがわかる
-- Google・LINE・Slack・Notion・X など外部サービスと OAuth で連携できる
+- Google・LINE・Slack・Notion・X など外部サービスと連携できる
 - カレンダー連携と LINE 通知を組み合わせて朝のブリーフィングを設定できる
 - AI の応答が思ったものと違うときに、役割やプロフィールから調整できる
 
